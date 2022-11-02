@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Antonis
 - 👀 I’m a Civil Engineer and a Programmer.
-- 🌱 I’m currently learning Game Maker Studio 2.x
-- 💞️ I’m looking to collaborate on Game Maker Studio 2.x (looking for graphics designer)
-- 📫 You may reach me through ...
+- 🌱 I’m currently learning Game Maker Studio 2
+- 💞️ I’m looking to collaborate on Game Maker Studio LTS 2.0 (looking for graphics designer)
+- 📫 You may reach me through info@bluehost.gr
