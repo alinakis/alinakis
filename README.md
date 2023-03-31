@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Antonis
 - 👀 I’m a Civil Engineer and a Programmer.
-- 🌱 I’m currently learning Game Maker Studio 2
+- 🌱 I’m currently learning (above average) Game Maker Studio 2
 - 💞️ I’m looking to collaborate on Game Maker Studio LTS 2.0 (looking for graphics designer)
+- 💻 I’m currently working on 14 private and 3 public repositories.
 - 📫 You may reach me through info@bluehost.gr
