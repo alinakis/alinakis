@@ -2,5 +2,5 @@
 - 👀 I’m a Civil Engineer and a Programmer.
 - 🌱 I’m currently learning (above average) Game Maker Studio 2
 - 💞️ I’m looking to collaborate on Game Maker Studio (looking for graphics designer)
-- 💻 I’m currently working on **26 private** and **6 public** repositories.
+- 💻 I’m currently working on **32 private** and **8 public** repositories.
 - 📫 You may reach me through info@bluehost.gr
